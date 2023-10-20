@@ -1,0 +1,10 @@
+{{"user1": [ "name": "Vika",
+	     "age": "26",
+	     "salary": "500",
+             "pets": "I_dont_have"]}
+{"user2":  [ "name":"Liza",
+             "age": "30",
+             "salary": "1000",
+             "pets": "two_the_cat"]
+}
+}
