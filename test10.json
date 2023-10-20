@@ -1,10 +1,12 @@
-{{"user1": [ "name": "Vika",
+{"user1": [ "name": "Vika",
 	     "age": "26",
-	     "salary": "500",
+	     "salary": "5000",
              "pets": "I_dont_have"]}
 {"user2":  [ "name":"Liza",
              "age": "40",
              "salary": "2000",
-             "pets": "two_the_cat"]
-}
-}
+             "pets": "two_the_cat"]}
+{"user3": [ "name": "Oleg",
+	     "age": "2",
+	     "salary": "0",
+             "pets": "I_dont_have"]}	
