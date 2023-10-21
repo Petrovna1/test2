@@ -1,4 +1,3 @@
-{"user":{["name": "Jyli",
+{"user":["name": "Jyli",
        "age": "200"]
-}
 }
