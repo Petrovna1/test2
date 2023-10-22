@@ -1,6 +1,6 @@
 {"user":["name": "Jyli",
-       "age": "200",
-        "pets": ]
+         "age": "200",
+         "pets": "no"]
 }
 {"user: ["name": "Andrey",
          "age": "52",
