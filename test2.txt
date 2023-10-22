@@ -4,4 +4,4 @@
 }
 {"user: ["name": "Andrey",
          "age": "52",
-         "pets":]}
+         "pets": "0"]}
