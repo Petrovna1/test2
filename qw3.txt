@@ -1,2 +1,1 @@
-dkwdef
-cat > wq4.txt
+pwd - посмотреть где я
