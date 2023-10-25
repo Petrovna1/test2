@@ -9,6 +9,7 @@ foreign key - внешний ключ
 references – значение, на которое равняются, на что будет равняться этот столбик 
 update - обновить
 set – задавать (в)
+where - где
 
 
 create table salary(
