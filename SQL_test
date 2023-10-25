@@ -11,6 +11,8 @@ update - обновить
 set – задавать (в)
 where - где
 order by - сортировать по 
+from –из 
+
 
 create table salary(
 id serial primary key,
