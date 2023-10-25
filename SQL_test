@@ -13,6 +13,7 @@ set – задавать (в)
 where - где
 order by - сортировать по 
 from –из 
+alter – изменить 
 
 
 create table salary(
