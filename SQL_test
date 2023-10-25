@@ -14,7 +14,7 @@ where - где
 order by - сортировать по 
 from –из 
 alter – изменить 
-
+add – добавить 
 
 create table salary(
 id serial primary key,
