@@ -5,3 +5,4 @@ int - тип данных
 role title -название роли (title –заголовок, role - роль)
 insert into- вставить в 
 values- ценности
+foreign key - внешний ключ
