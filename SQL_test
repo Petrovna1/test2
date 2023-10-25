@@ -16,7 +16,9 @@ from –из
 alter – изменить 
 add – добавить 
 column – столбец 
-
+rename – переименовать
+to – на 
+drop – терять 
 
 create table salary(
 id serial primary key,
