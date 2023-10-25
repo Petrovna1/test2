@@ -10,7 +10,7 @@ references – значение, на которое равняются, на ч
 update - обновить
 set – задавать (в)
 where - где
-
+order by - сортировать по 
 
 create table salary(
 id serial primary key,
