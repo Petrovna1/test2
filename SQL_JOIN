@@ -8,3 +8,10 @@ create table Person(
         person_name varchar(40),
         city_id int not null
 );
+
+insert into City(city_name)
+values ('Antalya'),
+       ('Berlin'),
+       ('Paris'),
+       ('Atlanta');
+
