@@ -23,3 +23,13 @@ values ('Vadim', 2),
 
 select * from City;
 select * from Person;
+
+select p.person_name, c.city_name from City as c
+join Person as p
+on p.city_id = person_name;
+
+
+
+
+
+
