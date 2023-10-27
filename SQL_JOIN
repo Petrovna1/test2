@@ -15,3 +15,9 @@ values ('Antalya'),
        ('Paris'),
        ('Atlanta');
 
+insert into Person(person_name, city_id)
+values ('Vadim', 2),
+       ('Anna', 1),
+       ('Vika', 3),
+       ('Sergey', 5);
+
