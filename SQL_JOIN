@@ -36,4 +36,6 @@ select person_name, city_name from
 Person right join City 
 on city_id = City.id;
 
-
+select person_name, city_name from 
+Person full outer join City 
+on city_id = City.id;
