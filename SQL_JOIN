@@ -28,7 +28,9 @@ select p.person_name, c.city_name from City as c
 join Person as p
 on p.city_id = person_name;
 
-
+select person_name, city_name from 
+Person left join City as c
+on city_id = c.id;
 
 
 
