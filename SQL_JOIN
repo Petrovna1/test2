@@ -21,3 +21,5 @@ values ('Vadim', 2),
        ('Vika', 3),
        ('Sergey', 5);
 
+select * from City;
+select * from Person;
