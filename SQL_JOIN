@@ -1,1 +1,4 @@
-
+create table City(
+        id serial primary key,
+        city_name varchar(40) unique not null
+);       
